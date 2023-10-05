@@ -1,5 +1,5 @@
 ---
-title: "FOC_parser"
+title: "Some Scripts for education"
 author: sanches23rx
 format: 
     md:
@@ -7,6 +7,6 @@ format:
 engine: knitr
 ---
 
-# Frequency of Occurrence of Characters
+# 1. foc_parser - Frequency of Occurrence of Characters
 
 Скрипт разбивает текст  по буквам, считает количество вхождений каждого символа и процент вхождений от общего числа
